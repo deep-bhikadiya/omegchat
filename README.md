@@ -1,5 +1,4 @@
 # 🌐 OmegChat  
-👉 [Live Demo](https://omeg.chat)  
 
 OmegChat is a **random video chat application** inspired by Omegle.  
 It connects strangers in real-time using **WebRTC** for peer-to-peer video and **Socket.IO** for signaling.  
